@@ -7,7 +7,7 @@ export default function AboutPage() {
         <section>
           <h2 className="text-accent font-semibold mb-2">// who I am</h2>
           <p className="text-text-dim leading-relaxed">
-           I'm Suman Goit, a software engineer who turns curiosity into working software. Engineer OS isn't a portfolio—it's an engineering notebook where every module is built to explore, test, and master a concept through implementation.
+           I'm Suman Goit, a computer engineering student who turns curiosity into working software. Engineer OS isn't a portfolio—it's an engineering notebook where every module is built to explore, test, and master a concept through implementation.
           </p>
         </section>
 
